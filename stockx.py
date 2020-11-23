@@ -5,8 +5,6 @@ import time
 import pickle
 import concurrent.futures
 from pandas.core.common import flatten
-from requests_html import HTMLSession
-from bs4 import BeautifulSoup
 
 
 class StockX():

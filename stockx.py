@@ -1,8 +1,6 @@
 import requests
 import json
 import pandas as pd
-import time
-import pickle
 import concurrent.futures
 from pandas.core.common import flatten
 

@@ -1,0 +1,19 @@
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1601745390275/work
+brotlipy==0.7.0
+certifi==2020.11.8
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1602537232013/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1602255310517/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1604179105239/work
+fake-useragent==0.1.11
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1604946192967/work
+pandas==1.1.4
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL==19.1.0
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1602326912788/work
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1604321279890/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1605186911681/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1597680516047/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1603125704209/work
